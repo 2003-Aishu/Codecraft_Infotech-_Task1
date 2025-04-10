@@ -1,2 +1,2 @@
 # Codecraft_Infotech-_Task1
- "Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population."
+"Task 1 of the CodeCraft Infotech Data Science Internship involved analyzing World Bank population data for 2022. We used Python, pandas, and matplotlib to create a bar chart for the top 10 populated countries and a histogram for population distribution."
